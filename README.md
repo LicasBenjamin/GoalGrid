@@ -2,6 +2,8 @@
 
 **GoalGrid** is a bingo-card style productivity web app designed to make goal tracking fun and interactive. Complete tasks, fill your bingo card, and boost your productivity one goal at a time!
 
+![GoalGridDemo](https://github.com/user-attachments/assets/132554d9-7429-491c-a1d4-17f1dccd3491)
+
 
 ### Features
 - **Full account support** - sign up, log in, and keep your progress of cards across sessions.
