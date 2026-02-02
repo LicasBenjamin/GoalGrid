@@ -19,8 +19,8 @@ GoalGrid is a full-stack app with a **Spring Boot (Java) backend** and a **React
 
 ## Project structure
 
-- `backend/` — Spring Boot API
-- `goalgrid-app/` — React UI
+- `backend/` - Spring Boot API
+- `goalgrid-app/` - React UI
 
 ## Prerequisites
 
